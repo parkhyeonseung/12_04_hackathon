@@ -40,7 +40,7 @@
 -jetpack 4.3 -> jetpack 4.6
 -pytorch 1.0 -> pytorch 1.9
 -tensorflow lite
-![따라와](./imgs/ddarawa.jpg)
+![따라와](./img/ddarawa.jpg)
 
 ### 공동 목표 수행 (따라가라파)<br>
 - Lift Station 진출입 및 리프트 작업
