@@ -41,7 +41,7 @@
 -pytorch 1.0 -> pytorch 1.9
 -tensorflow lite
 ![따라와](./img/ddarawa.jpg)
-![따라와 설계](./img/ddarawa_.jpg)
+![따라와 설계](./img/ddarawa1.jpg)
 ### 공동 목표 수행 (따라가라파)<br>
 - Lift Station 진출입 및 리프트 작업
 - 적외선 센서를 이용한 Positioning
@@ -50,4 +50,4 @@
 - 협업하여 공동 목표를 이루는 군집주행
 - 군집주행시 차간거리 유지 (Color Detection)
 ![따라가](./img/ddaraga.jpg)
-![따라가 설계](./img/ddaraga_.jpg)
+![따라가 설계](./img/ddaraga1.jpg)
