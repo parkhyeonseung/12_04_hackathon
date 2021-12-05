@@ -1,11 +1,11 @@
 # AI 로봇 해커톤 in 마곡
  따라와라파
-
+![시연 모습](./img/all.jpg)
 ## 시연 순서
 - 자율주행
 - 따라가 주행
 - 협동 작업 수행
-
+![Lift Station 협동 작업 모습](./img/lift_station.jpg)
 ## 아이디어 컨셉
 - 기존의 문제점<br>
 -약 3~5m 이상의 자재를 자율주행으로 이동시켜주는 이동체가 없다.
@@ -41,7 +41,7 @@
 -pytorch 1.0 -> pytorch 1.9
 -tensorflow lite
 ![따라와](./img/ddarawa.jpg)
-
+![따라와 설계](./img/ddarawa_.jpg)
 ### 공동 목표 수행 (따라가라파)<br>
 - Lift Station 진출입 및 리프트 작업
 - 적외선 센서를 이용한 Positioning
@@ -49,3 +49,5 @@
 - Color tracking에 PID 제어 구현
 - 협업하여 공동 목표를 이루는 군집주행
 - 군집주행시 차간거리 유지 (Color Detection)
+![따라가](./img/ddaraga.jpg)
+![따라가 설계](./img/ddaraga_.jpg)
